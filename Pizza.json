@@ -2,27 +2,27 @@
     "Pizzas": [
         {
             "clasificacion": "Pepperoni",
-            "imagen": "img/portfolio-1.jpg"
+            "imagen": "https://drive.google.com/uc?export=download&id=1_NRrsody2f3izDhO40s1IDLTCBNVxoKZ"
         },
         {
             "clasificacion": "Jamon",
-            "imagen": "img/portfolio-2.png"
+            "imagen": "https://drive.google.com/uc?export=download&id=1ZZJm8_ozCRquQT-EfxS16tMxzs0DMoZy"
         },
         {
             "clasificacion": "Camarones",
-            "imagen": "img/portfolio-3.png"
+            "imagen": "https://drive.google.com/uc?export=download&id=1QbPn9Grn73sBBR2d3I2ZQh58dltl2xwQ"
         },
         {
             "clasificacion": "Hawaiana",
-            "imagen": "img/portfolio-4.png"
+            "imagen": "https://drive.google.com/uc?export=download&id=1PP5X4tx14xq2S1zz9XUIYYJ5enHNQ9Bf"
         },
         {
             "clasificacion": "Suprema",
-            "imagen": "img/portfolio-5.png"
+            "imagen": "https://drive.google.com/uc?export=download&id=1HSC44voFgt6lkblmy3Lodf6Gp25NZHPm"
         },
         {
             "clasificacion": "Margarita",
-            "imagen": "img/portfolio-6.png"
+            "imagen": "https://drive.google.com/uc?export=download&id=1gj-b_PWVqGrchZkjyne8nVB23-6BDPMr"
         }
    ]
 }
