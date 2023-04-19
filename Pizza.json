@@ -1,0 +1,29 @@
+{
+    "Pizzas": [
+        {
+            "clasificacion": "Pepperoni",
+            "imagen": "img/portfolio-1.jpg"
+        },
+        {
+            "clasificacion": "Jamon",
+            "imagen": "img/portfolio-2.png"
+        },
+        {
+            "clasificacion": "Camarones",
+            "imagen": "img/portfolio-3.png"
+        },
+        {
+            "clasificacion": "Hawaiana",
+            "imagen": "img/portfolio-4.png"
+        },
+        {
+            "clasificacion": "Suprema",
+            "imagen": "img/portfolio-5.png"
+        },
+        {
+            "clasificacion": "Margarita",
+            "imagen": "img/portfolio-6.png"
+        }
+   ]
+}
+
